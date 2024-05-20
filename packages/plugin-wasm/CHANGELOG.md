@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.4](https://github.com/climateinteractive/SDEverywhere/compare/plugin-wasm-v0.2.3...plugin-wasm-v0.2.4) (2024-05-20)
+
+
+### Bug Fixes
+
+* change plugin-wasm to expose outputVarIds in the generated module ([#482](https://github.com/climateinteractive/SDEverywhere/issues/482)) ([9c2f7d1](https://github.com/climateinteractive/SDEverywhere/commit/9c2f7d1ae953f7de3a55dc3ef7a7f35a3422069e)), closes [#481](https://github.com/climateinteractive/SDEverywhere/issues/481)
+* update plugin-wasm to export `_free` function ([#475](https://github.com/climateinteractive/SDEverywhere/issues/475)) ([1a77eed](https://github.com/climateinteractive/SDEverywhere/commit/1a77eedd3143568ad3b4659f6b78dd9b60737b53)), closes [#474](https://github.com/climateinteractive/SDEverywhere/issues/474)
+
 ## [0.2.3](https://github.com/climateinteractive/SDEverywhere/compare/plugin-wasm-v0.2.2...plugin-wasm-v0.2.3) (2024-02-23)
 
 

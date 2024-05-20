@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.3](https://github.com/climateinteractive/SDEverywhere/compare/runtime-v0.2.2...runtime-v0.2.3) (2024-05-20)
+
+
+### Bug Fixes
+
+* refactor runtime and runtime-async packages to allocate/grow buffers on demand ([#484](https://github.com/climateinteractive/SDEverywhere/issues/484)) ([5e1c686](https://github.com/climateinteractive/SDEverywhere/commit/5e1c686c7f93fe96ff784dfe591fe391b2a31e8f)), closes [#471](https://github.com/climateinteractive/SDEverywhere/issues/471)
+* update plugin-wasm to export `_free` function ([#475](https://github.com/climateinteractive/SDEverywhere/issues/475)) ([1a77eed](https://github.com/climateinteractive/SDEverywhere/commit/1a77eedd3143568ad3b4659f6b78dd9b60737b53)), closes [#474](https://github.com/climateinteractive/SDEverywhere/issues/474)
+
 ## [0.2.2](https://github.com/climateinteractive/SDEverywhere/compare/runtime-v0.2.1...runtime-v0.2.2) (2023-09-28)
 
 

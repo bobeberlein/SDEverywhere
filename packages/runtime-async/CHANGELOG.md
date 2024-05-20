@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.3](https://github.com/climateinteractive/SDEverywhere/compare/runtime-async-v0.2.2...runtime-async-v0.2.3) (2024-05-20)
+
+
+### Bug Fixes
+
+* refactor runtime and runtime-async packages to allocate/grow buffers on demand ([#484](https://github.com/climateinteractive/SDEverywhere/issues/484)) ([5e1c686](https://github.com/climateinteractive/SDEverywhere/commit/5e1c686c7f93fe96ff784dfe591fe391b2a31e8f)), closes [#471](https://github.com/climateinteractive/SDEverywhere/issues/471)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @sdeverywhere/runtime bumped from ^0.2.2 to ^0.2.3
+
 ## [0.2.2](https://github.com/climateinteractive/SDEverywhere/compare/runtime-async-v0.2.1...runtime-async-v0.2.2) (2023-09-28)
 
 ### Dependencies

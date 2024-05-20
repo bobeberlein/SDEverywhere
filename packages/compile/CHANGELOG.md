@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.18](https://github.com/climateinteractive/SDEverywhere/compare/compile-v0.7.17...compile-v0.7.18) (2024-05-20)
+
+
+### Bug Fixes
+
+* remove old implementation of read and code gen phases ([#473](https://github.com/climateinteractive/SDEverywhere/issues/473)) ([8de0d16](https://github.com/climateinteractive/SDEverywhere/commit/8de0d167a59d0722352e73c31cbbdd7c09ac150f)), closes [#448](https://github.com/climateinteractive/SDEverywhere/issues/448)
+
 ## [0.7.17](https://github.com/climateinteractive/SDEverywhere/compare/compile-v0.7.16...compile-v0.7.17) (2024-04-22)
 
 

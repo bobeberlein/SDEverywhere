@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.7.24](https://github.com/climateinteractive/SDEverywhere/compare/cli-v0.7.23...cli-v0.7.24) (2024-05-20)
+
+
+### Bug Fixes
+
+* remove old implementation of read and code gen phases ([#473](https://github.com/climateinteractive/SDEverywhere/issues/473)) ([8de0d16](https://github.com/climateinteractive/SDEverywhere/commit/8de0d167a59d0722352e73c31cbbdd7c09ac150f)), closes [#448](https://github.com/climateinteractive/SDEverywhere/issues/448)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @sdeverywhere/compile bumped from ^0.7.17 to ^0.7.18
+
 ## [0.7.23](https://github.com/climateinteractive/SDEverywhere/compare/cli-v0.7.22...cli-v0.7.23) (2024-04-22)
 
 
